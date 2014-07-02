@@ -15,3 +15,6 @@ Please see the diagram.png image for the coordinate system.
 
 Your robot has a wheel radius of 20 cm, and an axle length of 18 cm.
 Your wheel encoders have 512 clicks per revolution.
+
+
+(NOTE: Slides for the talk can be found at: http://goo.gl/af3ZsU)
